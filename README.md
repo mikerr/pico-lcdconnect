@@ -5,3 +5,4 @@ GUI on LCD to choose wifi/password on pico w
 - on screen keybaord to type password
   
 Written for waveshare 1.3 LCD & joystick
+![](lcdconnect.jpg)
